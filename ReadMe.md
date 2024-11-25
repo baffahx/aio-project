@@ -1,5 +1,5 @@
 ## E-commerce Website
-A complete e-commerce website with HTML, CSS and JAVASCRIPT ,also using PHP and MYSQLi during the process to maintain a database...!!!
+A complete e-commerce website with HTML, CSS and JAVASCRIPT ,also using PHP and MYSQLi during the process to maintain a database.
 
 ### Features of this Ecommerce Website
 
